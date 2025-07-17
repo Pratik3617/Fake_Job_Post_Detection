@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 fake_job/
+artifact/
 
 # C extensions
 *.so
